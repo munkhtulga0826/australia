@@ -5,7 +5,7 @@
 <body>
     <p>
         <ul>
-            <il>Email хаяг
+            <il>
             <li><a href="20B1NUM0089@STUD.NUM.EDU.MN"><em>Email хаяг 1</em></a>
             <li><a href="bataa.munkhtulga@yahoo.com"><em>Email хаяг 2</em></a>
             <li>Холбогдох утас(80221282)
