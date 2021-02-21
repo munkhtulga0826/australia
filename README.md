@@ -5,7 +5,7 @@
 <body>
     <p>
         <ul>
-            <li><em>Email хаяг-bataa.munkhtulga@yahoo.com</li> 
+            <li><em>Email хаяг-bataa.munkhtulga@yahoo.com 
             <li>Холбогдох утас(80221282)
             <li><a href="https://www.facebook.com/tuka.tulga.77"><em>Facebook хаяг</em></a>
         
