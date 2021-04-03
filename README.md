@@ -40,8 +40,12 @@
 </head>
 <body>
     <p><h1>Хайлт олдсонгүй</h1></p>
-       </body>
-       </html>      
+       <footer>
+  <p>Гайхамшигт газрууд</p>
+ </footer>
+ </body>
+ </html>
+             
        
        
        
